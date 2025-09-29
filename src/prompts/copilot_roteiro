@@ -5,9 +5,12 @@ Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  ROTEIRO  |Você é um roteirista de podcast, e vamos criar um podcast de cuidados com sobrancelha, focado em nanoblanding e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de estética com foco em sobrancelha, com alguma referencia a minha esposa e seu salão, Pamperle Beauty O podcast vai falar sobre dicas e novidades sobre o mundo da estética focado em sobrancelha e o que está acontecendo no mercado | 
-|  REGRAS | - O nome deve ser enxuto, um nome e um subtítulo <br> - O nome tenha algum trocadilho com pamperle beuaty  <br> - Inclua algo religioso cristão
-|  REGRAS NEGATIVAS |- Não quero que o título contenha necessariamente sobrancelha    |
-|  RESULTADO ESCOLHIDO |- PampCast – Beleza e Fé
- 
+|  ROTEIRO  | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de estetica, focado em sobrancelha com viés cristão, cujo o nome é "PampCast – Beleza e Fé-o formato do roteiro deve ser [INTRODUÇÃO] [FATO 1] [FATO 2] [FINALIZAÇÃO]
+|  REGRAS | - - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções de um mini trecho bíblico com viés de auto-estima  <br> -- no bloco [FATO 1] substitua por fato do mercado de estética
+ <br> - no bloco [FATO 2] substitua por fato do mercado de estética americano <br> - no bloco [FINALIZAÇÃO] substitua por uma despedida cristã com o final 'Que tudo seja para a glóría de Deus'
+ <br> - use termos de acolhedores  <br> - O podcast vai ser apresentado somente por uma pessoa, chamada Pamela Bulata, especialista em sobrancelha e cilios <br> -  	O podcast deve ser curto
+
+
+
+
   
